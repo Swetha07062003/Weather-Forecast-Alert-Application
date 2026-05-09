@@ -159,13 +159,13 @@ streamlit run dashboard.py
 
 ## Bengaluru Weather Data
 
-![Bengaluru Weather Data](images/Bengaluru_weather_data.png)
+![Bengaluru Weather Data](images/bengaluru_weather_data.png)
 
 ---
 
 ## Chennai Weather Data
 
-![Chennai Weather Data](images/Chennai_weather_data.png)
+![Chennai Weather Data](images/chennai_weather_data.png)
 
 ---
 
