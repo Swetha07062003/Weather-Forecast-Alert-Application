@@ -169,17 +169,6 @@ streamlit run dashboard.py
 
 ---
 
-# 📉 Weather Charts
-
-## Bengaluru Weather Chart
-
-![Bengaluru Chart](images/Bengaluru_weather_chart.png)
-
----
-
-## Chennai Weather Chart
-
-![Chennai Chart](images/Chennai_weather_chart.png)
 
 ---
 
